@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-voice-ai-app/static/css/main.058b1168.chunk.css",
+    "main.js": "/react-voice-ai-app/static/js/main.ab38bb1a.chunk.js",
+    "main.js.map": "/react-voice-ai-app/static/js/main.ab38bb1a.chunk.js.map",
+    "runtime-main.js": "/react-voice-ai-app/static/js/runtime-main.ab758a3f.js",
+    "runtime-main.js.map": "/react-voice-ai-app/static/js/runtime-main.ab758a3f.js.map",
+    "static/js/2.ad13ac99.chunk.js": "/react-voice-ai-app/static/js/2.ad13ac99.chunk.js",
+    "static/js/2.ad13ac99.chunk.js.map": "/react-voice-ai-app/static/js/2.ad13ac99.chunk.js.map",
+    "index.html": "/react-voice-ai-app/index.html",
+    "precache-manifest.b3ffb6d00317e6b2d65bf213531df5a2.js": "/react-voice-ai-app/precache-manifest.b3ffb6d00317e6b2d65bf213531df5a2.js",
+    "service-worker.js": "/react-voice-ai-app/service-worker.js",
+    "static/css/main.058b1168.chunk.css.map": "/react-voice-ai-app/static/css/main.058b1168.chunk.css.map",
+    "static/js/2.ad13ac99.chunk.js.LICENSE.txt": "/react-voice-ai-app/static/js/2.ad13ac99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab758a3f.js",
+    "static/js/2.ad13ac99.chunk.js",
+    "static/css/main.058b1168.chunk.css",
+    "static/js/main.ab38bb1a.chunk.js"
+  ]
+}
